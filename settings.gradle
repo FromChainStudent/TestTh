@@ -1,0 +1,2 @@
+include ':app', ':smstest', ':SMSSDK-2.1.4', ':SMSSDKGUI-2.1.4', ':sharesdktest', ':vpdemo', ':listdemo', ':twolist', ':gaodemap', ':ormdemo', ':nothing', ':ThreeList', ':onlinedemo'
+include ':BaiDuMap'

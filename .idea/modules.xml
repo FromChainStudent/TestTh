@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BaiDuMap/BaiDuMap.iml" filepath="$PROJECT_DIR$/BaiDuMap/BaiDuMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SMSSDK-2.1.4/SMSSDK-2.1.4.iml" filepath="$PROJECT_DIR$/SMSSDK-2.1.4/SMSSDK-2.1.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SMSSDKGUI-2.1.4/SMSSDKGUI-2.1.4.iml" filepath="$PROJECT_DIR$/SMSSDKGUI-2.1.4/SMSSDKGUI-2.1.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestThree.iml" filepath="$PROJECT_DIR$/TestThree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreeList/ThreeList.iml" filepath="$PROJECT_DIR$/ThreeList/ThreeList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gaodemap/gaodemap.iml" filepath="$PROJECT_DIR$/gaodemap/gaodemap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listdemo/listdemo.iml" filepath="$PROJECT_DIR$/listdemo/listdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nothing/nothing.iml" filepath="$PROJECT_DIR$/nothing/nothing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onlinedemo/onlinedemo.iml" filepath="$PROJECT_DIR$/onlinedemo/onlinedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ormdemo/ormdemo.iml" filepath="$PROJECT_DIR$/ormdemo/ormdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharesdktest/sharesdktest.iml" filepath="$PROJECT_DIR$/sharesdktest/sharesdktest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smstest/smstest.iml" filepath="$PROJECT_DIR$/smstest/smstest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twolist/twolist.iml" filepath="$PROJECT_DIR$/twolist/twolist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vpdemo/vpdemo.iml" filepath="$PROJECT_DIR$/vpdemo/vpdemo.iml" />
+    </modules>
+  </component>
+</project>

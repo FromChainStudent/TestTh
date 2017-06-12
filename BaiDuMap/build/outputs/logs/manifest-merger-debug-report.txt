@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:2:1-95:12
+	package
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:4:5-35
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:7:22-64
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:8:5-85
+	android:name
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:8:22-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:14:5-73
+	android:name
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:14:22-70
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:17:5-18:23
+	android:name
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:20:5-21:23
+	android:name
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:32:5-33:23
+	android:name
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:32:22-72
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:40:5-41:23
+	android:name
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:40:22-81
+application
+ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:43:5-93:19
+	android:label
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:47:9-41
+	android:allowBackup
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:45:9-35
+	android:icon
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:46:9-45
+	android:theme
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:48:9-40
+	android:name
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:44:9-58
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:49:9-51:64
+	android:value
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:51:13-61
+	android:name
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:50:13-52
+activity#com.example.baidumap.MainActivity
+ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:54:9-57:20
+	android:label
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:56:13-45
+	android:name
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:55:13-61
+activity#com.example.baidumap.LocationActivity
+ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:60:9-62:20
+	android:name
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:60:19-71
+service#com.baidu.location.f
+ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:65:9-69:19
+	android:enabled
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:67:13-35
+	android:process
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:68:13-38
+	android:name
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:66:13-48
+activity#com.example.baidumap.PoiSearchActivity
+ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:72:9-73:20
+	android:name
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:72:19-72
+activity#com.example.baidumap.TrafficActivity
+ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:76:9-82:20
+	android:name
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:76:19-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:77:13-81:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:78:17-69
+	android:name
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:78:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:80:17-77
+	android:name
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:80:27-74
+activity#com.example.baidumap.lbs.LBSActivity
+ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:86:9-87:20
+	android:name
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:86:19-70
+activity#com.example.baidumap.lbs.LBSSearchActivity
+ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:90:9-92:20
+	android:name
+		ADDED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml:90:19-76
+uses-sdk
+INJECTED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidDemo\TestThree\BaiDuMap\src\main\AndroidManifest.xml

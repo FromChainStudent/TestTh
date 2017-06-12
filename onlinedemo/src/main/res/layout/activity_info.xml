@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.onlinedemo.InfoActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#c2041a">
+
+        <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/ic_brows_back" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:gravity="center"
+            android:text="影片详情"
+            android:textColor="#b1b1b1"
+            android:textSize="18dp" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/info_error"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="没有关于该影片的信息"
+        android:textSize="18dp"
+        android:gravity="center"
+        android:visibility="gone"/>
+
+    <include
+        layout="@layout/lv_adapter"/>
+
+    <TextView
+        android:id="@+id/info_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.83"
+        android:padding="5dp"/>
+
+    <Button
+        android:id="@+id/btn_near"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="周边影院"/>
+</LinearLayout>

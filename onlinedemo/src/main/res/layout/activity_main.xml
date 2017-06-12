@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1"
+    tools:context="com.example.onlinedemo.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#c2041a">
+
+        <TextView
+            android:id="@+id/main_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:text="地区"
+            android:textColor="#b1b1b1"
+            android:textSize="17dp" />
+
+        <TextView
+            android:id="@+id/main_title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="热门影片"
+            android:textColor="#b1b1b1"
+            android:textSize="18dp" />
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/main_frame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" />
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#c2041a"
+        android:orientation="horizontal"
+        android:showDividers="middle"
+        android:weightSum="2">
+
+        <RadioButton
+            android:id="@+id/main_movie"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:button="@null"
+            android:gravity="center"
+            android:checked="true"
+            android:text="电影"
+            android:textColor="#fff"
+            android:textSize="19dp" />
+
+        <RadioButton
+            android:id="@+id/main_local"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:button="@null"
+            android:gravity="center"
+            android:text="影院"
+            android:textColor="#fff"
+            android:textSize="19dp" />
+    </RadioGroup>
+</LinearLayout>

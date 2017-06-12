@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\AndroidDemo\\TestThree\\BaiDuMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
+        "source": "D:\\AndroidDemo\\TestThree\\BaiDuMap\\src\\main\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\TestThree\\BaiDuMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lbs_search.xml",
+        "source": "D:\\AndroidDemo\\TestThree\\BaiDuMap\\src\\main\\res\\layout\\activity_lbs_search.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\TestThree\\BaiDuMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_poi_search.xml",
+        "source": "D:\\AndroidDemo\\TestThree\\BaiDuMap\\src\\main\\res\\layout\\activity_poi_search.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\TestThree\\BaiDuMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_traffic.xml",
+        "source": "D:\\AndroidDemo\\TestThree\\BaiDuMap\\src\\main\\res\\layout\\activity_traffic.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\TestThree\\BaiDuMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidDemo\\TestThree\\BaiDuMap\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidDemo\\TestThree\\BaiDuMap\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lbs.xml",
+        "source": "D:\\AndroidDemo\\TestThree\\BaiDuMap\\src\\main\\res\\layout\\activity_lbs.xml"
+    }
+]

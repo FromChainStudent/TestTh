@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/BaiDuMap" />
+            <option value="$PROJECT_DIR$/SMSSDK-2.1.4" />
+            <option value="$PROJECT_DIR$/SMSSDKGUI-2.1.4" />
+            <option value="$PROJECT_DIR$/ThreeList" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/gaodemap" />
+            <option value="$PROJECT_DIR$/listdemo" />
+            <option value="$PROJECT_DIR$/nothing" />
+            <option value="$PROJECT_DIR$/onlinedemo" />
+            <option value="$PROJECT_DIR$/ormdemo" />
+            <option value="$PROJECT_DIR$/sharesdktest" />
+            <option value="$PROJECT_DIR$/smstest" />
+            <option value="$PROJECT_DIR$/twolist" />
+            <option value="$PROJECT_DIR$/vpdemo" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

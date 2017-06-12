@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/BaiDuMap/src/main/java/com/example/baidumap/LocationActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BaiDuMap/src/main/java/com/example/baidumap/MainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BaiDuMap/src/main/java/com/example/baidumap/MyApplication.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BaiDuMap/src/main/java/com/example/baidumap/PoiSearchActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BaiDuMap/src/main/java/com/example/baidumap/TrafficActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BaiDuMap/src/main/java/com/example/baidumap/lbs/LBSActivity.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

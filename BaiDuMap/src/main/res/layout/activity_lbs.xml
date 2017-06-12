@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <Button
+        android:id="@+id/btn_create_table"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:onClick="click"
+        android:layout_weight="1"
+        android:text="创建表" />
+
+    <Button
+        android:id="@+id/btn_add_colums"
+        android:onClick="click"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="添加字段" />
+
+    <Button
+        android:id="@+id/btn_add_data"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:onClick="click"
+        android:text="添加数据" />
+
+</LinearLayout>
