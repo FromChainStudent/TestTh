@@ -37,7 +37,6 @@ public class LBSActivity extends Activity {
 			R.id.btn_add_colums, R.id.btn_add_data })
 	private void click(View view) {
 		switch (view.getId()) {
-		// 创建表
 		case R.id.btn_create_table:
 			createTable();
 			break;
@@ -53,7 +52,6 @@ public class LBSActivity extends Activity {
 
 	}
 
-	// 添加数据
 	private void addData() {
 		RequestParams params = new RequestParams(
 				"http://api.map.baidu.com/geodata/v3/poi/create");
