@@ -12,6 +12,10 @@ import android.widget.PopupWindow;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.squareup.okhttp.Call;
+import com.squareup.okhttp.OkHttpClient;
+import com.squareup.okhttp.Request;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -34,6 +38,9 @@ public class MainActivity extends AppCompatActivity {
         lv.setAdapter(adapter);
 
         initListener();
+
+        OkHttpClient client = new OkHttpClient();
+
 
     }
 
